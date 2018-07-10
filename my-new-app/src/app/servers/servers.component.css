@@ -1,0 +1,9 @@
+.initial {
+    width: auto;
+    height: 100px;
+    border: 2px solid #007777;
+    min-width: 20px;
+}
+.red {
+    color: red;
+}
